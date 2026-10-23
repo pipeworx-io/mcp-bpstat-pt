@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bpstat-pt",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "BPstat — Banco de Portugal statistics API (Portuguese central bank). Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4bc1497a505b937e245a0fdf3d50f9b9d162455784802cc6877b73fe2cd86e92",
-    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
+    "sourceHash": "v1-21c6bf8c37bf70ffff9f247b29fa65dcca0e5adcbbf62e2e83a65e0b1385b1cd",
+    "sourceCommit": "70a4e816a9195016cd4af92dca2019485d4c3865"
   }
 }
